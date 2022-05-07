@@ -1,3 +1,6 @@
+# Description
+A data-driven approach for identifying winning strategies in trading environments
+
 # Introduction
 This project is a collection of ideas on how we can identify behavioral patterns for reaching our goals in a specific context. Since this is a very broad description, the starting point for this project is a game scenario. 
 For getting started quickly and to be more hands-on, the first idea we are want to focus on is a concrete example.
